@@ -8,6 +8,7 @@ Debe ser ejecutado de la siguiente manera:<br>
 <ul>
   <li>La entrada es el nombreTexto.extension
   <li>La dirección del archivo tipo: Example1.txt y se ubican en la carpeta TestText en test.
+  <li>Ejecución: java -cp "./target/classes" edu.escuelaing.arsw.oODesing.OoDesign Example1.txt
 </ul>
 </p>
 
