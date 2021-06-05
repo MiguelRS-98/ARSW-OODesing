@@ -49,7 +49,7 @@ En estos test se encuentra 3 testOk con los archivos en la carpeta test y un tes
 El archvivo OoDesing.java:<br>
 45 lineasLOC. <br>
 El archvivo LinkedList.java:<br>
-55 lineasLOC. <br>
+174 lineasLOC. <br>
 El archvivo LinkedListNode.java:<br>
 24 lineasLOC. <br>
 El archvivo Calculator.java:<br>
@@ -60,5 +60,5 @@ El archvivo OoDesingTest.java:<br>
 
 ### Tiempo total:
 <p>
-202/8 = 25.25 lineasLOC/horas.
+321/9 = 35.66 lineasLOC/horas.
 </p>
