@@ -20,4 +20,25 @@ public class OoDesingTest extends TestCase
             assertEquals(res1[0],a1);
             assertEquals(res1[1],a2);
     }
+    
+    /**
+     * This method Test 1.
+     */
+    public void testDesing2OK () 
+    {
+    }
+    
+    /**
+     * This method Test 1.
+     */
+    public void testDesing3OK () 
+    {
+    }
+    
+    /**
+     * This method Test 1.
+     */
+    public void testDesing4OK () 
+    {
+    }
 }
